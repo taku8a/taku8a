@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm taku8a</h1>
-<h3 align="center">Passionate network learner from Japan</h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=taku8a&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taku8a" alt="taku8a" /></a> </p>
+<a href="https://github.com/sponsors/ryo-ma">
+  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+</a>
 
-- 🌱 I’m currently learning **networking and General programming**
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taku8a&show_icons=true&locale=en&layout=compact" alt="taku8a" /></p>
+---
+  
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=taku8a&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taku8a&layout=compact" />
+</div>
