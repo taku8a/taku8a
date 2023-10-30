@@ -3,10 +3,6 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=taku8a&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-<a href="https://github.com/sponsors/ryo-ma">
-  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
-</a>
-
 ---
   
 <div>
