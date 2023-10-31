@@ -1,7 +1,5 @@
 <h2>🏆 Github Profile Trophy</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=taku8a&column=8&theme=gruvbox&no-frame=true"/>
-</a>
 
 ---
   
